@@ -302,5 +302,3 @@ readRDS("tables/freq_df_tab.rds")
 -   **Manque de variables plus riches (qualification, période d'arrivée)**
 
 # Merci pour votre attention!
-
-### Posez-moi vos questions
