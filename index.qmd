@@ -267,10 +267,18 @@ readRDS("tables/freq_df_tab.rds")
 
 ## Vérification des hypothèses (4)
 
+::: panel-tabset
+### Résultat
+
 [H3 (validée)]{style="color: green;"}
 
 -   Ordre similaire à nos attentes:
     -   Regroupement familial, activité économique, « autres raisons » et études.
+    
+### Modèle
+
+![Source: Office Fédérale de la Statistique](figures/immigration_reason.png){fig-align="center"}
+:::
 
 ## Conclusion (1)
 
