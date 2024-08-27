@@ -1,12 +1,15 @@
 ---
 title: "La COVID-19 a-t-elle eu un impact sur les schémas de mobilité résidentielle des migrants en Suisse ?"
-Author: "Hategekimana V. & Wanner P."
-format: clean-revealjs
+subtitle: https://cyuhat.github.io/Presentation_AIDELF_2024/#/title-slide
+author: "Hategekimana V. & Wanner P."
+format: 
+  clean-revealjs:
+      transition: slide
 ---
 
 ## Introduction
 
--   La Covid-19 a eu un impact majeur sur la mobilité
+-   La **Covid-19** a eu un impact majeur sur la mobilité
     -   Confinement + Arrêt de travail
         -   Réflexion sur la vie du ménage
     -   Limitation de la mobilité internationale
@@ -19,12 +22,12 @@ format: clean-revealjs
 
 La Suisse c'est:
 
--   Forte proportion d'étrangers
+-   **Forte proportion d'étrangers (31% en 2022: OFS)**
     -   Travail et Réunion familiale principalement
     -   Niveau d'éducation élevé
     -   Arriver dans les centres économiques/urbains
         -   Attraction du travail
--   La Suisse est un pays de locataires (61% en 2022: OFS)
+-   **La Suisse est un pays de locataires (61% en 2022: OFS)**
 
 **Très intéressant pour étudier l'impact de la COVID-19 sur la mobilité résidentielle**
 
@@ -36,8 +39,8 @@ Nous allons tester deux facteurs principaux:
     -   Cohort pré-covid (2015, 2017)
     -   Cohorte covid (2019)
 (2) **La mobilité varie en fonction du niveau d'urbanité**
-    -   Mobilité supérieur dans les villes
-    -   Mobilité inférieur dans les milieux ruraux ou périphériques
+    -   Mobilité supérieure dans les villes
+    -   Mobilité inférieure dans les milieux ruraux ou périphériques
 
 ## Mobilité résidentielle
 
@@ -46,9 +49,13 @@ Nous allons tester deux facteurs principaux:
 -   **Conditions économiques** (revenus, coûts du logement, situation professionnelle, crises)
     -   (Rérat, 2016 ; Wanner, 2017)
 -   **Événements familiaux** (naissance, mariage, divorce)
+    -   (Lacroix et al., 2020)
 -   **Réseaux sociaux** (contacts locaux, réseaux personnels)
+    -   (Duque-Calvache et al., 2021; Lei & Liu, 2022)
 -   **Contexte géographique** (type de région, espace disponible)
+    -   (Stawarz et al., 2022; Tønnessen, 2021)
 -   **Condition psychologique** (Rôle du logement, Ancrage)
+    -   (Marcelo et al., 2022; Pagani et al., 2021)
 
 ::: notes
 ## Le rôle des conditions économiques
@@ -95,18 +102,20 @@ Les choix de mobilité résidentielle sont influencés par une série de facteur
 ## COVID-19
 
 -   Augmentation de la mobilité résidentielle hors des centres-villes
-    -   Marginal en Suisse
+    -   **Marginale en Suisse**
 -   Augmentation de la considération du confort des logements
 
 **En Suisse:**
 
--   Confinement léger
--   Chômage partiel: protection des emplois
+-   **Confinement léger**
+-   **Chômage partiel**: protection des emplois
     -   Faible impact économique individuel
+
+(MOBIS:COVID19; OFL, 2021)
 
 ## Population urbaine en Suisse
 
--   Migration contribue à la croissance
+-   Migration contribue à la **croissance**
 -   Jeunes adultes
 -   Ménages à revenus moyens ou élevés
 -   Ménages non familiaux
@@ -115,7 +124,7 @@ Les choix de mobilité résidentielle sont influencés par une série de facteur
 
 ## Intégration et centralité urbaine
 
--   Les résidents étrangers sont d'abord attirés par les grands ou moyens centres urbains, puis se déplacent
+-   Les résidents étrangers sont d'abord attirés par **les grands ou moyens centres urbains**, puis se déplacent
     -   Opportunités d'emploi
 -   Un séjour plus long diminue la propension à la migration interne.
 
@@ -123,7 +132,7 @@ Les choix de mobilité résidentielle sont influencés par une série de facteur
 
 ## Dynamique interne de la migration des résidents étrangers
 
--   L'enseignement supérieur et les qualifications professionnelles conduisent à s'éloigner des centres urbains (Beckers & Boschman, 2019 ; M. Boyd, 1989 ; etc.).
+-   L'enseignement supérieur et les **qualifications professionnelles élevées** conduisent à s'éloigner des centres urbains (Beckers & Boschman, 2019 ; M. Boyd, 1989 ; etc.).
     -   Les conditions de logement (Hansen & Aner, 2017 ; Muhyi & Adianto, 2021).
 -   Les résidents étrangers **moins qualifiés** restent dans les villes en raison des opportunités d'emploi et des réseaux sociaux (Lerch & Wanner, 2010).
 
@@ -131,10 +140,10 @@ Les choix de mobilité résidentielle sont influencés par une série de facteur
 
 ## Hypothèses
 
--   **H1** : Le premier déménagement interne après la migration se produira plus rapidement pour la cohorte COVID-19 (2019 - 2021).
--   **H2a** : Les personnes s'installant dans les centres afficheront une mobilité post-migratoire plus rapide et plus importante que celles qui s'installent dans les régions périphériques.
--   **H2b** : La Covid-19 (cohorte 2019) va accentuer cet effet.
--   **H3** : Les personnes venues en Suisse pour le travail sont plus mobiles que celles venues pour des raisons familiales, tandis que celles venues pour l'éducation se situent entre les deux.
+-   **H1** : Le premier déménagement interne après la migration se produira [plus rapidement pour la cohorte COVID-19]{style="color: blue;"} (2019 - 2021).
+-   **H2a** : Les personnes s'installant dans [les centres]{style="color: blue;"} auront une mobilité post-migratoire [plus rapide]{style="color: blue;"} et plus importante que celles qui s'installent dans les régions périphériques.
+-   **H2b** : La [Covid-19]{style="color: blue;"} (cohorte 2019) va [accentuer]{style="color: blue;"} cet effet.
+-   **H3** : Les personnes venues en Suisse pour le [travail sont plus mobiles]{style="color: blue;"} que celles venues pour des raisons familiales, tandis que celles venues pour l'éducation se situent entre les deux.
 
 ## Données
 
@@ -144,35 +153,36 @@ Les choix de mobilité résidentielle sont influencés par une série de facteur
 
 ## Population
 
--   Personnes âgées de 20 à 64 ans, ayant séjourné au moins une année en Suisse et dont la mobilité n'est pas limitée par leur permis de séjour.
--   Définie comme les personnes ayant un permis de séjour valable au moins un an (permis L, B et C).
--   Exclus les demandeurs d'asile (réfugiés N, F et F), mais inclus les membres de la famille qui rejoignent les réfugiés reconnus avec un permis B.
+-   Personnes âgées de **20 à 64 ans**, ayant séjourné **au moins une année en Suisse** et dont la mobilité n'est **pas limitée** par leur permis de séjour.
+-   Définie comme les personnes ayant un **permis de séjour valable au moins un an** (permis L, B et C).
+-   **Exclus les demandeurs d'asile** (réfugiés N et F), mais inclus les **membres de la famille** qui rejoignent les **réfugiés reconnus** avec un permis B.
+-   Échantillon: **86'133 individus**
 
 ## Cohortes et cantons
 
 ### Focus sur trois cantons suisses et les cohortes de migrants récents
 
--   Genève, Vaud et Zurich : principaux points d'arrivée des immigrants
--   Trois cohortes de résidents permanents étrangers qui se sont récemment installés en Suisse (2015, 2017 et 2019)
--   3 ans (1095 jours)
+-   [Genève]{style="color: blue;"}, [Vaud]{style="color: blue;"} et [Zurich]{style="color: blue;"} : principaux points d'arrivée des immigrants
+-   Trois cohortes de résidents permanents étrangers qui se sont récemment installés en Suisse ([2015]{style="color: blue;"}, [2017]{style="color: blue;"} et [2019]{style="color: blue;"})
+-   **3 ans (1095 jours)**
 
 ## Modèle statistique
 
--   Modèle de hasard proportionnel de Cox
-    -   Variable dépendante: premier déménagement interne (changement de commune).
-    -   La variable temporelle:
-        -   Jours (max. 1095 = 3 ans)
-        -   Censurée à droite, car:
-            -   Événements concurrents (décès, mobilité internationale)
+-   **Modèle à risques proportionnels de Cox**
+    -   **Variable dépendante**: [premier déménagement interne]{style="color: blue;"} (changement de commune).
+    -   **La variable temporelle**:
+        -   [Jours]{style="color: blue;"} (max. 1095 = 3 ans)
+        -   [Censurée à droite]{style="color: blue;"}, car:
+            -   Évènements concurrents (décès, mobilité internationale)
             -   Fin de la période d'observation
 
 ## Deux modèles
 
 $$
-h(t) = h_0(t) \exp(\beta_1 \times \text{Y2017} + \beta_2 \times \text{Y2019} + \beta_3 \times \text{ImmigrationReason} + \beta_4 \times \text{LevelOfUrbanity} + \sum_{i=5}^{13} \beta_i \times \text{Control}_{i-4})
+\scriptstyle h(t) = h_0(t) \exp(\beta_1 \times \text{Y2017} + \beta_2 \times \text{Y2019} + \beta_3 \times \text{ImmigrationReason} + \beta_4 \times \text{LevelOfUrbanity} + \sum_{i=5}^{13} \beta_i \times \text{Control}_{i-4})
 $$
 
-Chaque modèle ajoute une couche de profondeur à notre compréhension :
+Deux modèles :
 
 -   **Modèle 1** : Variables primaires d'intérêt et variables de contrôle
 -   **Modèle 2** : introduis des effets d'**interaction** entre les variables de **niveau d'urbanité** et les caractéristiques de la **cohorte**.
@@ -195,13 +205,26 @@ Chaque modèle ajoute une couche de profondeur à notre compréhension :
 
 ## Variables dépendantes du temps
 
--   état civil (célibataire, marié/partenaire, divorcé/veuf)
+-   État civil (célibataire, marié/partenaire, divorcé/veuf)
 -   Taille du ménage (1 personne, 2-3 personnes, 4-5 personnes, 6-10 personnes)
 -   Changement de la taille du ménage
 
+## Tableau descriptif {.scrollable}
+
+```{r}
+library(flextable)
+readRDS("tables/freq_df_tab.rds")
+```
+
+## Tableau de régression
+
+```{=html}
+<iframe src="./tables/model_table.html" width="2000" height="2000"></iframe>
+```
+
 ## Vérification des l'hypothèses (1) {.scrollable}
 
-H1 (Validée):
+[H1 (Validée):]{style="color: green;"}
 
 ::: panel-tabset
 ### Résultat
@@ -215,7 +238,7 @@ H1 (Validée):
 
 ## Vérification des hypothèses (2) {.scrollable}
 
-H2a (rejetée):
+[H2a (rejetée):]{style="color: red;"}
 
 ::: panel-tabset
 ### Résultat
@@ -230,7 +253,7 @@ H2a (rejetée):
 
 ## Vérification des hypothèses (3) {.scrollable}
 
-H2b (effet contraire)
+[H2b (effet contraire)]{style="color: blue;"}
 
 ::: panel-tabset
 ### Résultat
@@ -244,18 +267,18 @@ H2b (effet contraire)
 
 ## Vérification des hypothèses (4)
 
-H3 (validée)
+[H3 (validée)]{style="color: green;"}
 
 -   Ordre similaire à nos attentes:
-    -   regroupement familial, activité économique, « autres raisons » et études.
+    -   Regroupement familial, activité économique, « autres raisons » et études.
 
 ## Conclusion (1)
 
 ### Discussion
 
--   Les personnes arrivées en Suisse avant Covid-19 (cohorte 2019) avaient des taux de mobilité plus élevés que celles des années précédentes
+-   Les personnes arrivées en Suisse **durant la période Covid-19** (cohorte 2019) avaient des taux de **mobilité plus rapide** que celles des années précédentes
     -   **Suggestion**: davantage investi dans la recherche d'un cadre de vie adéquat.
--   La mobilité dans les milieux urbains a été plus faible que dans les périphéries.
+-   La mobilité dans les **milieux urbains** a été **plus faible** que dans les **périphéries**.
     -   **Invitation**: Changer l’accent sur les milieux ruraux et s'intéresser à la destination.
 
 ## Conclusion (2)
@@ -267,9 +290,9 @@ H3 (validée)
 
 ### Limites
 
--   Hypothèse de risque proportionnelle violée
--   Manque de variables plus riches (qualification, période d'arrivée)
+-   **Hypothèse de risque proportionnelle violée**
+-   **Manque de variables plus riches (qualification, période d'arrivée)**
 
-## Merci pour votre attention!
+# Merci pour votre attention!
 
 ### Posez-moi vos questions
